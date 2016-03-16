@@ -1,0 +1,1 @@
+# a static method to highlight syntax
